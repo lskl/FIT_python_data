@@ -1,0 +1,4 @@
+pysolar
+pandas
+numpy
+matplotlib
