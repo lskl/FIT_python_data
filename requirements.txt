@@ -1,0 +1,5 @@
+pysolar
+pandas
+numpy
+matplotlib
+openpyxl
