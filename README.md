@@ -1,5 +1,5 @@
-# prog2_FIT_WS21
-Python for Data Analysis - FIT Winter Semester 2021
+# Programming in python at FIT
+Python for Data Analysis - FIT: last update in Winter Semester 2022/2023
 
 
 ## installation of dependencies
