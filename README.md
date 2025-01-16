@@ -1,5 +1,5 @@
 # Programming in python at FIT
-Python for Data Analysis - FIT: last update in Winter Semester 2022/2023
+Python for Data Analysis - FIT: last update in Winter Semester 2024/2025
 
 
 ## installation of dependencies
